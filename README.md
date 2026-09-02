@@ -1,5 +1,7 @@
 # HyperPLR: Hypergraph Generation through Projection, Learning, and Reconstruction
 
+This repository contains the official implementation of our paper [HyperPLR: Hypergraph Generation through Projection, Learning, and Reconstruction](https://openreview.net/forum?id=TYnne6Pa35).
+
 The dependency of the code is in ``requirement.txt``.
 
 The framework can be found in ``main.ipynb``.
